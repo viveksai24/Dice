@@ -44,10 +44,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 - Include animations for rolling the dice.
 - Allow players to input their names.
 
-## License 📄
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Enjoy the game! If you have any questions or feedback, feel free to reach out. 🎉
