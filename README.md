@@ -34,7 +34,7 @@ Check out the live version of the game here:
 
 ## Screenshot 📸
 
-![Dice Game Screenshot]("/imgaes/screenshot")  
+![Dice Game Screenshot](images/screenshot.png)  
 
 ## Contributing 🤝
 
